@@ -1,1 +1,2 @@
-Git Sample
+Git Sample	
+1. Introduction
